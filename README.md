@@ -70,6 +70,12 @@ BreadRecipeManager/
    36 grams of sugar
    18 egg(s)
    ```
+## Contact
 
+For questions or feedback, feel free to reach out:
+
+- **Email**: salehaqareen@gmail.com
+- **GitHub**: [SalehaQareen98]([https://github.com/your-username](https://github.com/SalehaQareen98))
+  
 ## Skills/Technologies
 **Java, File I/O, Exception Handling, Object-Oriented Programming (OOP), CLI Design, System Design.**
