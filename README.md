@@ -1,11 +1,5 @@
 ﻿# Bread-Recipe-Manager-Application-
 
-Here’s the complete **`README.md`** file in one flow for easy copying and pasting:
-
----
-
-```markdown
-# Bread Recipe Manager
 
 ## Overview
 The Bread Recipe Manager is a Java-based command-line application designed to assist bakery owners in managing bread recipes and generating ingredient shopping lists. The program dynamically loads recipes from a file, allows users to order bread, calculates ingredient totals, and generates shopping lists while ensuring robust error handling.
@@ -79,7 +73,3 @@ BreadRecipeManager/
 
 ## Skills/Technologies
 **Java, File I/O, Exception Handling, Object-Oriented Programming (OOP), CLI Design, System Design.**
-```
-
----
-
